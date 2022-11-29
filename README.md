@@ -7,7 +7,7 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
+- Tamara Aracena - FCFM
 - <Integrante 2> - <Facultad>
 - <Integrante 3> - <Facultad>
 - <Integrante 4> - <Facultad>
