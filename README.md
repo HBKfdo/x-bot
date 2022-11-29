@@ -1,5 +1,5 @@
 # X - 2022
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
+Creación de un bot de pelea a través de 
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
 ![Robot Ejemplo](multimedia/robot_ejemplo.png)
@@ -16,10 +16,10 @@
 
 ### Estrategia utilizada
 #### Ofensiva
-<Explicar brevemente el arma utilizada.>
+X posee un disco giratorio vertical que alcanza velocidades muy altas para así inflingir grandes cantidades de daño al momento del contacto. Su forma está diseñada con el fin de enganchar de alguna manera la base de su contrincante y poder volcarlo.
 
 #### Defensiva
-<Explicar el modo de defensa del robot.>
+Se tiene un caparazón de acero inoxidable que aguanta golpes de gran magnitud?
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
