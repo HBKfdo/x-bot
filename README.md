@@ -1,16 +1,15 @@
-# <Título del proyecto> - <Año>
+# X - 2022
 <Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+![Robot Ejemplo](multimedia/robot_ejemplo.png)
 
 
 
 ## Integrantes
 - Tamara Aracena - FCFM
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Martín Molina - FCFM
+- Fernando Soto - FCFM
 
 
 ## Descripción del proyecto
