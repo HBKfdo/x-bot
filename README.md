@@ -16,7 +16,8 @@ Creación de un bot de pelea a través de
 
 ### Estrategia utilizada
 #### Ofensiva
-X posee un disco giratorio vertical que alcanza velocidades muy altas para así inflingir grandes cantidades de daño al momento del contacto. Su forma está diseñada con el fin de enganchar de alguna manera la base de su contrincante y poder volcarlo.
+Con el fin de vencer a sus contrincantes, X-bot posee un disco giratorio vertical de aluminio en su parte frontal y a una altura minima para que no toque el suelo. Este disco alcanza velocidades muy altas para así inflingir el mayor daño posible al momento del contacto. 
+Su forma está diseñada con el fin de enganchar de alguna manera la base de su contrincante y poder volcarlo.
 
 #### Defensiva
 Se tiene un caparazón de acero inoxidable que aguanta golpes de gran magnitud?
