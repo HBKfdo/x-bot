@@ -1,4 +1,4 @@
 # Lluvia de Ideas
-
-Subir imágenes y/o vídeos que les sirvieron como búsqueda/inspiración externa.
-Subir bocetos, con una breve expicación de las ideas del boceto.
+Aqui estan las ideas con las que empezamos la construccion de X-bot
+![Ideas BattleBot](multimedia/ideas_bocetos_frr.jpg)
+Luego nos dimos cuenta que más de un equipo usaría un cilindro giratorio como arma asi que diseñamos nuestra arma para derrotar a esta arma con un disco muy bajo para voltearlos
