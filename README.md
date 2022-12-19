@@ -20,7 +20,7 @@ Con el fin de vencer a sus contrincantes, X-bot posee un disco giratorio vertica
 Su forma está diseñada con el fin de enganchar de alguna manera la base de su contrincante y poder volcarlo.
 
 #### Defensiva
-Se tiene un caparazón de acero inoxidable que aguanta golpes de gran magnitud?
+Tiene una defensa impenetrable de acero inoxidable puesta en forma de caparazon para que asi pueda soportar golpes en la parte superior de gran magnitud
 
 ### Diagrama funcional
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
