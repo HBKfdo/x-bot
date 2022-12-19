@@ -1,6 +1,6 @@
 # X - 2022
-Creación de un bot de pelea a través de 
-<Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
+Creación de un bot de pelea a través del proyecto "Battlebots: Mi primera máquina de pelea"
+
 
 ![Robot Ejemplo](multimedia/robot_ejemplo.png)
 
