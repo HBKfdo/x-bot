@@ -26,7 +26,10 @@ Se tiene un caparazón de acero inoxidable que aguanta golpes de gran magnitud?
 <Diagrama general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
 
 ### *BONUS*: Paso a Paso
-<Explicar brevemente el paso a paso de cómo construir el battlebot.>
-
+Se escoge una base de 2 a 4 motores con ruedas con un arduino
+Usar los codigos y un modulo bluetooth para moverlo
+Se conecta con la aplicacion APK en un celular para moverlo a voluntad
+Con la ayuda de unos pilares de afirma el motor para el ataque y el caparazón de acero inoxidable 
+Listo para destrozar a los demás battlebots
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
