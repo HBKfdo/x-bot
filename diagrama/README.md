@@ -1,3 +1,3 @@
 # Diagrama electromecánico
 Movimiento ruedas
-![Diagrama Ejemplo](/multimedia/esquema.png)
+![Diagrama Movimiento](/multimedia/Diagrama.jpeg)
