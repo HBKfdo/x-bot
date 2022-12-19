@@ -2,7 +2,7 @@
 Creación de un bot de pelea a través del proyecto "Battlebots: Mi primera máquina de pelea"
 
 
-![Robot Ejemplo](multimedia/Xbot.jpeg)
+![Robot Xbot](multimedia/Xbot.jpeg)
 
 
 
